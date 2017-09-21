@@ -27,12 +27,12 @@ ID     |Part name      		      |Name 					                |Quantity
 -------|------------------------|-------------------------------|-----------
 U1, U2 | E18-D80NK Resistor     | Infrared Sensor Switch 	      | 2       
 U3	   | Arduino NANO			      | Controller				            | 1       
-U4, U5 | OMRON G3MB-202P		    | Solid State Relay Module 	    | 1       
+U4, U5 | OMRON G3MB-202P		    | Solid State Relay Module 	    | 2       
 U6	   | AC 220V to DC 5V 500mA | Step-Down Power Supply Module | 1 	
 SW1 	 |    					          | Reed Switch    				        | 1       
 S1 	   | 						            | Switch   					            | 1        
 R1, R2 | 10k   				          | Resistor    				          | 2        
-C1     | 100nF   				        | Capasitor    				          | 2        
+C1     | 100nF   				        | Capasitor    				          | 1        
 
 SCHEMATIC
 ---------
